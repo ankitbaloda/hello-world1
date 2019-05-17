@@ -1,2 +1,6 @@
 # hello-world1
-my first respository
+
+Hi Humans!
+
+Ankit Here. Currently I am learning programming.
+I have had tacos on the moon and found them superior than Earth tacos.
